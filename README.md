@@ -22,6 +22,3 @@ Nút ở GPIO 4 dùng ngắt, chống dội bằng `millis()` với thời gian 
 
 Đọc biến trở ở GPIO 34, lọc trung bình 8 mẫu rồi dùng giá trị đó chỉnh độ sáng LED ở GPIO 18. Serial in giá trị thô và giá trị đã lọc để vẽ đồ thị.
 
-## Cách chạy
-
-Mở thư mục của bài trong VS Code (có cài PlatformIO), bấm Build rồi Upload. Mở Serial Monitor ở tốc độ 115200.
